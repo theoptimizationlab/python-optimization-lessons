@@ -1,4 +1,3 @@
-# python-optimization-lessons
 # Why Learn Optimization with Python?
 
 Optimization is like a superpower — it’s the science of making the best possible choice, and Python gives you the perfect toolkit to do it. Whether you’re planning a road trip, building a robot, or running a smoothie stand, you’re solving optimization problems every day. Learning how to model those decisions with Python turns intuition into something you can *measure, test, and improve.*
